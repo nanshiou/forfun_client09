@@ -84,7 +84,7 @@ html, body {
 
 @media (max-width: 1024px) {
   .fullPage {
-    background: url("../images/bg-mob.png") no-repeat center/cover;
+    background: url("../images/bg-mob.webp") no-repeat center/cover;
   }
 }
 
